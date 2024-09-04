@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=Oe421EPjeBE
+
+https://github.com/john-smilga/node-express-course/blob/main/01-node-tutorial/12-http.js
+Vrijeme na kojemu si zavšio prošli tutorijal: 1:04
